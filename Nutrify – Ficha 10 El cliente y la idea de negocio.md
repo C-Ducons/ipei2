@@ -131,4 +131,3 @@ En el primer año queremos darnos a conocer y cubrir gastos, aunque no ganemos d
 | Esfuerzos (miedos y frustraciones) | No ver resultados, abandonar otra vez y gastar dinero sin que sirva. |
 | Resultados (deseos) | Sentirse bien, tener energía, mejorar su físico y comer rico sin complicarse. |
 
-Rellenad las respuestas reales de cada entrevistado (10-12 personas) y adjuntadlas a este anexo.

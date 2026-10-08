@@ -20,9 +20,9 @@ Los criterios que más nos ayudan a clasificar a los clientes de Nutrify son la 
 
 ## 2. Segmento de mercado
 
-Nutrify se dirige a jóvenes y adultos de 18 a 40 años en España que quieren comer mejor pero no tienen tiempo, conocimientos ni dinero para acudir a un nutricionista de forma continua.
+Nutrify se dirige a adultos de 30 a 40 años en España que quieren comer mejor pero no tienen tiempo, o no quieren cambiar tanto su manera de vida
 
-**Cliente objetivo:** una persona de unos 25 años, estudiante o trabajadora, que usa el móvil a diario, hace algo de deporte y ha intentado alguna dieta sin éxito. Tiene dudas constantes sobre qué comer y le gustaría tener a alguien de confianza a quien preguntar.
+**Cliente objetivo:** una persona de unos 35 años, trabajadora, que usa el móvil a diario, hace algo de deporte y ha intentado alguna dieta sin éxito. Tiene dudas constantes sobre qué comer y le gustaría tener a alguien de confianza a quien preguntar.
 
 ### Tipos de clientes y estrategia
 
@@ -37,12 +37,12 @@ Usaremos una **estrategia diferenciada**: una sola app para todos, pero con rece
 
 ### Early adopters
 
-Nuestros primeros clientes serán **estudiantes universitarios y de FP y jóvenes que van al gimnasio**, de 18 a 28 años. Se caracterizan por:
+Nuestros primeros clientes serán **personas que trabajan regularmente**, de 30 a 40 años. Se caracterizan por:
 
-- Usar mucho el móvil y las redes sociales, y probar apps nuevas con facilidad.
+- Estan familiarizados con los telefonos.
 - Tener interés real por su físico y su salud.
-- Contar con poco presupuesto para pagar un nutricionista.
-- Cocinar por primera vez solos o con poco tiempo entre clases, trabajo y entreno.
+- Contar con presupuesto para pagar un nutricionista.
+- Cocinar con poco tiempo entre clases, trabajo y entreno.
 
 **Problemas que tienen actualmente:**
 

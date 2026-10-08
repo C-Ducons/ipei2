@@ -4,13 +4,13 @@ Oct 2, 2026 · @Anas
 
 ## 1. Criterios de segmentación
 
-Los criterios que más nos ayudan a clasificar a los clientes de Nutrify son la edad, el estilo de vida y la motivación por cuidarse, más que la renta o la ubicación.
+Los criterios que más nos ayudan a clasificar a los clientes de Nutrify son la edad, el estilo de vida y la motivación por cuidarse.
 
 | Criterio | ¿Nos sirve? | Cómo lo aplicamos |
 | --- | --- | --- |
-| Geográfico | Poco | La app funciona en cualquier sitio. Empezamos en España por idioma, recetas y productos de supermercado. |
+| Geográfico | Bastante | La app funciona en cualquier sitio. Pero empezamos en España por idioma, recetas y productos de supermercado. |
 | Demográfico (edad) | Mucho | Nos centramos en personas de 18 a 40 años, que usan el móvil a diario. |
-| Renta | Algo | Precio bajo (modelo freemium), así que llega también a estudiantes y jóvenes con poco presupuesto. |
+| Renta | Bastante | Distintos tiers. |
 | Profesión u ocupación | Mucho | Estudiantes y trabajadores con poco tiempo para planificar comidas. |
 | Rasgos psicológicos | Mucho | Personas que quieren cuidarse pero se agobian con las dietas o abandonan pronto. |
 | Gustos y estilo de vida | Mucho | Gente que va al gimnasio, hace deporte o quiere perder o ganar peso. |

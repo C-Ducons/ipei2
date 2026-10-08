@@ -62,26 +62,26 @@ Hemos entrevistado a 10-12 personas cercanas (compañeros del centro, amigos y f
 
 **c) ¿Por qué motivos lo compran?** Quieren mejorar su físico, sentirse con más energía y dejar de comer comida rápida. También buscan comodidad: saber qué cocinar sin tener que pensarlo.
 
-**d) ¿Cómo preferirían que fuese el producto?** Fácil de usar, con recetas rápidas (menos de 30 minutos) y baratas, adaptadas a su objetivo. Valoran mucho poder preguntar dudas en cualquier momento y recibir respuesta rápida. Prefieren un precio mensual bajo, por debajo de 10 €.
+**d) ¿Cómo preferirían que fuese el producto?** Fácil de usar, con recetas rápidas (menos de 30 minutos), adaptadas a su objetivo. Valoran mucho poder preguntar dudas en cualquier momento y recibir respuesta rápida. 
 
-**e) ¿Cambiaríamos el segmento al que iba dirigido el producto?** No lo cambiamos, pero lo concretamos. Al principio pensábamos en cualquier persona que quisiera hacer dieta. Las entrevistas muestran que quienes más lo necesitan y antes lo pagarían son jóvenes de 18 a 28 años que hacen deporte y tienen poco tiempo y presupuesto.
+**e) ¿Cambiaríamos el segmento al que iba dirigido el producto?** No lo cambiamos, pero lo concretamos. Al principio pensábamos en cualquier persona que quisiera hacer dieta. Las entrevistas muestran que quienes más lo necesitan y antes lo pagarían son personas de entre 30 y 40 años y tienen poco tiempo o conocimiento sobre el tema.
 
 ## 4. Idea de negocio
 
-Nutrify es una app móvil de alimentación saludable con recetas adaptadas a cada objetivo y un chat con nutricionistas disponible 24 horas. Nuestro eslogan: **Nutrify. Fork Life.**
+Nutrify es una consulta móvil con una app móvil de alimentación saludable con recetas adaptadas a cada objetivo y un chat con nutricionistas disponible 24 horas. Nuestro eslogan: **Nutrify. Fork Life.**
 
 ### a) Actividad
 
-Desarrollamos y vendemos una app de nutrición para iOS y Android. Funciona con un modelo freemium:
+Aconsejamos a nuestros clientes, desarrollamos y vendemos una app de nutrición para iOS y Android.
 
 | Plan | Precio | Qué incluye |
 | --- | --- | --- |
-| Gratis | 0 € | Recetas básicas y lista de la compra. |
+| Gratis | (Precio de consulta) € | Recetas básicas y lista de la compra. |
 | Premium | 6,99 €/mes | Plan semanal personalizado, todas las recetas y chat 24/7 con nutricionistas. |
 
 ### b) Clientes
 
-Vendemos a jóvenes y adultos de 18 a 40 años, empezando por estudiantes y jóvenes que van al gimnasio. Están dispuestos a pagar una cuota baja: ya gastan dinero en gimnasio, suplementos o comida a domicilio, pero no pueden pagar 40-60 € por cada consulta con un nutricionista.
+Vendemos a adultos de 30 a 40 años, empezando por estudiantes y jóvenes que van al gimnasio. Están dispuestos a pagar una cuota baja: ya gastan dinero en gimnasio, suplementos o comida a domicilio, pero no pueden pagar 40-60 € por cada consulta con un nutricionista.
 
 ### c) Problema o necesidad que cubre
 

@@ -131,3 +131,10 @@ En el primer año queremos darnos a conocer y cubrir gastos, aunque no ganemos d
 | Esfuerzos (miedos y frustraciones) | No ver resultados, abandonar otra vez y gastar dinero sin que sirva. |
 | Resultados (deseos) | Sentirse bien, tener energía, mejorar su físico y comer rico sin complicarse. |
 
+## Análisis DAFO
+
+| | Positivo | Negativo |
+| --- | --- | --- |
+| **Interno** | **Fortalezas:** asesoramiento 24/7 real, recetas rápidas y baratas, precio bajo, planes personalizados. | **Debilidades:** marca nueva, coste alto de nutricionistas, poco presupuesto, dependencia del premium. |
+| **Externo** | **Oportunidades:** moda de la vida sana, uso del móvil, redes sociales, colaboraciones con gimnasios. | **Amenazas:** apps conocidas, contenido gratis en redes, abandono de usuarios, normativa de datos de salud. |
+
